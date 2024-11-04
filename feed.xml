@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Be Informed</title>
+    <title>Become Informed</title>
     <link href="https://becomeinformed.co.uk/feed.xml" rel="self" />
     <link href="https://becomeinformed.co.uk" />
     <updated>2024-10-20T20:12:12+01:00</updated>
@@ -48,35 +48,6 @@
 <li><a href="https://beta.bathnes.gov.uk/through-traffic-restriction-trials">Experimental ETRO trials</a></li>
 <li><a href="https://beta.bathnes.gov.uk/LNRPZ">Resident Parking Zones</a></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Welcome</title>
-        <author>
-            <name>James</name>
-        </author>
-        <link href="https://becomeinformed.co.uk/home/"/>
-        <id>https://becomeinformed.co.uk/home/</id>
-        <media:content url="https://becomeinformed.co.uk/media/posts/1/Designer-750x550.-2.jpg" medium="image" />
-            <category term="Welcome Info"/>
-
-        <updated>2024-04-14T23:22:31+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://becomeinformed.co.uk/media/posts/1/Designer-750x550.-2.jpg" alt="" />
-                    Welcome to Be Informed. None of the information on this site is to be treated at legal advice. This site&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://becomeinformed.co.uk/media/posts/1/Designer-750x550.-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Welcome to Be Informed.</p>
-<p>None of the information on this site is to be treated at legal advice.</p>
-<p>This site was created and is maintained by a small group of people who who are NOT legal professionals, and do NOT have any legal training at all.</p>
-<p>We are all people who are fed up with being screwed over by people in Government and their corporate buddies, who get to treat us more and more like plebs while they swan around seemingly doing whatever they want with little or no consequences to hold them accountable.</p>
-<p>Sure we can all moan, complain and say "there's nothing we can do", but if we do that, then it's going to be harder to bring us back from the brink. Action is what is needed.</p>
-<figure class="detail__media__img-highres  js-detail-img  js-detail-img-high"><img loading="lazy"  src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.picserver.org%2Fimages%2Fhighway%2Fphrases%2Ftake-action.jpg&amp;f=1&amp;nofb=1&amp;ipt=c4addd23d47274cfd5f1b6d6f40c1c9cf1b1ccb295302bd006213c654ac8994b&amp;ipo=images" alt="Take Action - Highway image" data-is-external-image="true"></figure>
             ]]>
         </content>
     </entry>

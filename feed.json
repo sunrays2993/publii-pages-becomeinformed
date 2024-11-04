@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Be Informed",
+    "title": "Become Informed",
     "description": "",
     "home_page_url": "https://becomeinformed.co.uk",
     "feed_url": "https://becomeinformed.co.uk/feed.json",
@@ -23,22 +23,6 @@
             ],
             "date_published": "2024-10-20T15:57:27+01:00",
             "date_modified": "2024-10-20T20:12:12+01:00"
-        },
-        {
-            "id": "https://becomeinformed.co.uk/home/",
-            "url": "https://becomeinformed.co.uk/home/",
-            "title": "Welcome",
-            "summary": "Welcome to Be Informed. None of the information on this site is to be treated at legal advice. This site&hellip;",
-            "content_html": "<p>Welcome to Be Informed.</p>\n<p>None of the information on this site is to be treated at legal advice.</p>\n<p>This site was created and is maintained by a small group of people who who are NOT legal professionals, and do NOT have any legal training at all.</p>\n<p>We are all people who are fed up with being screwed over by people in Government and their corporate buddies, who get to treat us more and more like plebs while they swan around seemingly doing whatever they want with little or no consequences to hold them accountable.</p>\n<p>Sure we can all moan, complain and say \"there's nothing we can do\", but if we do that, then it's going to be harder to bring us back from the brink. Action is what is needed.</p>\n<figure class=\"detail__media__img-highres  js-detail-img  js-detail-img-high\"><img loading=\"lazy\"  src=\"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.picserver.org%2Fimages%2Fhighway%2Fphrases%2Ftake-action.jpg&amp;f=1&amp;nofb=1&amp;ipt=c4addd23d47274cfd5f1b6d6f40c1c9cf1b1ccb295302bd006213c654ac8994b&amp;ipo=images\" alt=\"Take Action - Highway image\" data-is-external-image=\"true\"></figure>",
-            "image": "https://becomeinformed.co.uk/media/posts/1/Designer-750x550.-2.jpg",
-            "author": {
-                "name": "James"
-            },
-            "tags": [
-                   "Welcome Info"
-            ],
-            "date_published": "2024-04-14T23:22:31+01:00",
-            "date_modified": "2024-10-20T16:28:44+01:00"
         }
     ]
 }
